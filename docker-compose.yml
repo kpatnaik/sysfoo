@@ -1,0 +1,5 @@
+vote:
+  image: kpatnaik/sysfoo:staging
+  ports: 
+    - 54000:8080
+  
